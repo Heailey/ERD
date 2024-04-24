@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T09:39:11.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TXRUM0o1NgJ3MnD-lKLQ" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T09:39:55.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7FE94QMqJkUZlDfWqLDc" version="24.2.8" type="github">
   <diagram name="페이지-1" id="XmreBOKtrtFxmWQFSsLp">
-    <mxGraphModel dx="4982" dy="4605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6567" dy="5388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -834,13 +834,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-253" value="금지어" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421.5" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="211.5" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-254" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;번호&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-256" value="내용" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.608;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5KhA2xYxuPLDUMnkAG5v-253" target="5KhA2xYxuPLDUMnkAG5v-254">
           <mxGeometry relative="1" as="geometry" />
@@ -849,13 +849,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-260" value="배너 이미지" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671.5" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="461.5" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-261" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;번호&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="410" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-262" value="파일링크" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.608;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5KhA2xYxuPLDUMnkAG5v-260" target="5KhA2xYxuPLDUMnkAG5v-261">
           <mxGeometry relative="1" as="geometry" />
@@ -864,10 +864,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-265" value="로그" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-268" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;번호&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="690" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-270" value="번호" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-60" y="370" width="100" height="40" as="geometry" />

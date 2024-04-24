@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T09:07:13.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zgX8xE1VodqrMScyiczn" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T09:09:04.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WlWkDt8PjImogPVqpyTL" version="24.2.8" type="github">
   <diagram name="페이지-1" id="XmreBOKtrtFxmWQFSsLp">
     <mxGraphModel dx="4453" dy="4344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -964,9 +964,6 @@
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-319" value="변동" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="265" y="70" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5KhA2xYxuPLDUMnkAG5v-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5KhA2xYxuPLDUMnkAG5v-311" target="5KhA2xYxuPLDUMnkAG5v-311">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KhA2xYxuPLDUMnkAG5v-327" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5KhA2xYxuPLDUMnkAG5v-324" target="5KhA2xYxuPLDUMnkAG5v-325">
           <mxGeometry relative="1" as="geometry" />
